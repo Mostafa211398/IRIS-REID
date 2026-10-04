@@ -1,0 +1,13 @@
+.data/
+.runtime/
+.env
+frontend/node_modules/
+frontend/dist/
+frontend/test-results/
+frontend/playwright-report/
+**/__pycache__/
+.pytest_cache/
+*.tsbuildinfo
+frontend/.npm-cache/
+desktop.ini
+v5_arabic_mobile-resume-epoch-60.zip
